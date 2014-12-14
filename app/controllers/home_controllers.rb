@@ -10,8 +10,8 @@ class HomeController < ApplicationController
   
   def create
   end
-  
-  def add
-  end
 
+  def destroy
+  end
+  
 end
