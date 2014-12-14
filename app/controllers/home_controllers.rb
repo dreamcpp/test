@@ -13,5 +13,5 @@ class HomeController < ApplicationController
 
   def destroy
   end
-
+  
 end
